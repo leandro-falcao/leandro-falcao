@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  <div>
   <a href="https://github.com/leandro-falcao">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=leandro-falcao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-falcao&layout=compact&langs_count=9&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-falcao&layout=compact&langs_count=9&theme=dracula"/>
 </div>
   <div style="display: inline_block">
   <img align="center" alt="le-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
