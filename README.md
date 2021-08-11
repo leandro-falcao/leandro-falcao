@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   
   #teste
   
-  <div style="display:inline_flex;">
+    <div style="display: inline_block">
  	 
  
   <!--
