@@ -2,7 +2,7 @@
 
 - 🔭 Eu estou estagiando com suporte, mas todavia focando no aprendizado de front end e back end nos projetos pessoais e de faculdade  ...
 - 
-- 🌱 Atualmente estudo HTML/CSS e JavaScript, trabalhando com NodeJS no backend, e automação com selenium em python e automação com puppeteer em nodeJS, além de docker, java e PHP
+- 🌱 Atualmente estudo HTML/CSS e JavaScript e PHP E Python/Selenium e banco de dados, trabalhando com NodeJS no backend, e automação com selenium em python e automação com puppeteer em nodeJS, além de docker, java e PHP
 - 📫 Meus Contatos: 
 - linkedin: https://www.linkedin.com/in/leandro-falcao/ 
 - email: leandrofalcaoads@gmail.com ...
