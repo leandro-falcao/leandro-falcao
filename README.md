@@ -1,8 +1,8 @@
 ### Olá, Sou Leandro Falcao 👋
 
-- 🔭 Eu estou estagiando com suporte, mas todavia focando no aprendizado de front end e back end nos projetos pessoais e de faculdade  ...
+- 🔭 Eu estou estagiando com suporte a infra , todavia focando no aprendizado fullstack nos projetos pessoais e de faculdade e dos muito cursos fazendo...
 - 
-- 🌱 Atualmente estudo HTML/CSS e JavaScript/NodeJS e PHP E Python/Selenium e banco de dados, trabalhando com NodeJS no backend, e automação com selenium em python e automação com puppeteer em nodeJS, além de docker, java e PHP
+- 🌱 Atualmente estudo HTML/CSS e javascript(front end) no backend JavaScript/TypeScript(Node) e PHP, básico de Java, básico de banco de dados(MySQL, OracleDB), trabalhando com NodeJS no backend, e automação com selenium em python e automação com puppeteer em nodeJS, além de docker, java e PHP
 - 📫 Meus Contatos: 
 - linkedin: https://www.linkedin.com/in/leandro-falcao/ 
 - email: leandrofalcaoads@gmail.com ...
