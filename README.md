@@ -29,10 +29,9 @@
 </a>
 </div>
  
- ### <strong>Hi</strong> 👋 <Im Jéssyca Borges> 👾
 
-I'm a student of Software Engineer at Estacio-Iesam, and programmer analyst at Eicon Brasil, and I've been working in tech since
-2018. I'm from Brazil, currently live Belém, I like to be called &lt;Js&gt;
+I'm a student of analysis and development systems  in UNICSUL, Analys and Treinnee at BRBCARD, and I've been working in tech since
+2020. I'm from Brazil, currently live Brasilia-DF, I like to be called
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/devjs0101)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jsdevelop3r/)
