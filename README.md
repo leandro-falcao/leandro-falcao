@@ -1,6 +1,6 @@
 ### Olá, Sou Leandro Falcao 👋
 
-- 🔭 Eu estou treinner em TI...
+- 🔭 Eu estou trainee em TI...
 - 
 - 🌱 Atualmente estudo HTML/CSS e javascript(front end) no backend JavaScript/TypeScript(Node) e PHP, básico de Java, básico de banco de dados(MySQL, OracleDB), trabalhando com NodeJS no backend, e automação com selenium em python e automação com puppeteer em nodeJS, além de docker, java e PHP
 - 📫 Meus Contatos: 
