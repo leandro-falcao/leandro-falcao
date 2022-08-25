@@ -30,8 +30,8 @@
 </div>
  
 
-I'm a student of analysis and development systems  in UNICSUL, i am Treinneer at BRBCARD, and I've been working in tech since
-2020. I'm from Brazil, currently live Brasilia-DF, I like to be called Leandro Falcon
+I'm a student of analysis and development systems  in UNICSUL, i am Trainnee at BRB group, and I've been working in tech since
+2020. I'm from Brazil, currently live Brasilia-DF, I like to be called Leandro Falcao.
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/devjs0101)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jsdevelop3r/)
