@@ -31,7 +31,7 @@
  
 
 ## I have a degree Computer Systems Analyst, and student of MBA Postgraduate Degree in Information Systems Architecture. 
-### I am Trainnee at BRB group, and I've been working in tech since2020. 
+### I am analyst of systems| am software developer. 
 #### I'm from Brazil, currently live Brasilia-DF, I like to be called Leandro Falcao.
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/LeandroFalcaoTI)
