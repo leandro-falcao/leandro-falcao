@@ -1,8 +1,7 @@
 ### Olá, Sou Leandro Falcao 👋
 
-- 🔭 Eu estou freelancer development em java e php e javascript...
-- 
-- 🌱 Atualmente focado no no estudo backend com PHP, JAVA e também APIs, JavaScript(front end) e banco de dados [SQLserver, MySQL, Postgrel], vez em quando uma automsção com selenium de python e automação com puppeteer em nodeJS, para completar a stack de desenvolvimento, tenho conhecimento em docker e docker-compose
+- 🔭...
+- 🌱 Atualmente focado no no estudo backend com PHP, JAVA e também APIs, JavaScript(front end) e banco de dados [SQLserver, MySQL, Postgre], vez em quando uma automsção com selenium de python e automação com puppeteer em nodeJS, para completar a stack de desenvolvimento, tenho conhecimento em docker e docker-compose
 - 📫 Meus Contatos: 
 - linkedin: https://www.linkedin.com/in/leandro-falcao/ 
 - email: leandrofalcaoads@gmail.com ...
