@@ -1,8 +1,8 @@
 <h1><span>Olá,</span> Sou Leandro Falcao 👋</h1>
 
-<img align="left" alt="Developer working backend" height="300" width="200" src="https://img.freepik.com/vetores-gratis/desenvolvimento-de-aplicativos-para-celular-e-desktop_23-2148704867.jpg?t=st=1714432503~exp=1714436103~hmac=063608f254caf3e182af2c3048d615d9330e5d89d442dfaf14820f0eb9d82be5&w=740">
+<img align="left" alt="Developer working backend" height="300" width="230" src="https://img.freepik.com/vetores-gratis/desenvolvimento-de-aplicativos-para-celular-e-desktop_23-2148704867.jpg?t=st=1714432503~exp=1714436103~hmac=063608f254caf3e182af2c3048d615d9330e5d89d442dfaf14820f0eb9d82be5&w=740">
 
-<img align="right" alt="Developer working backend" height="800" width="200" src="https://cdn.pixabay.com/photo/2013/07/13/01/24/binary-155685_1280.png">
+<img align="right" alt="Developer working backend" height="300" width="250" src="https://cdn.pixabay.com/photo/2013/07/13/01/24/binary-155685_1280.png">
 
 - 🔭...
 - 🌱 Atualmente focado no no estudo backend com PHP, JAVA e também APIs, JavaScript(front end) e banco de dados [SQLserver, MySQL, Postgre], vez em quando uma automsção com selenium de python e automação com puppeteer em nodeJS, para completar a stack de desenvolvimento, tenho conhecimento em docker e docker-compose
